@@ -22,7 +22,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReshyResh&layout=compact"></img><br><br><br>
     Check out my <a rel="nofollow noopener noreferrer" target="_blank" href="https://reshyresh.github.io/Portfolio/">Portfolio</a><br><br>
     <img align="center" src="https://i.imgur.com/aaRADiP.png"></img><br><br>
-     <a href="https://github.com/ReshyResh" target="_blank"><img alt="kevinjycui" src="https://badges.pufler.dev/visits/ReshyResh/ReshyResh"/></a>
+     <a href="https://github.com/ReshyResh" target="_blank"><img alt="ReshyResh" src="https://badges.pufler.dev/visits/ReshyResh/ReshyResh"/></a>
      <a href="https://github.com/ReshyResh/ReshyResh" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/ReshyResh/ReshyResh?label=profile%20updated&style=flat-square"></a>
   </samp>
   </p>
