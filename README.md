@@ -13,6 +13,7 @@
       <a href="https://github.com/ReshyResh?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=Python&logoColor=white"></a>
      <a href="https://github.com/ReshyResh?tab=repositories&language=javascript" target="_blank"><img alt="React" src="https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=React&logoColor=black"></a>
      <a href="https://github.com/ReshyResh?tab=repositories&language=ruby" target="_blank"><img alt="Ruby" src="https://img.shields.io/badge/-Ruby-red?style=flat-square&logo=Ruby&logoColor=white"></a>
+     <a href="https://github.com/ReshyResh?tab=repositories&language=ruby" target="_blank"><img alt="Ruby" src="https://img.shields.io/badge/-Rails-a10831?style=flat-square&logo=rubyonrails&logoColor=white"></a>
       <a href="https://github.com/ReshyResh?tab=repositories&language=javascript" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f1e05a?style=flat-square&logo=Javascript&logoColor=black"></a>
       <a href="https://github.com/ReshyResh?tab=repositories&language=html" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"></a>
      <a href="https://github.com/ReshyResh?tab=repositories&language=css" target="_blank"><img alt="CSS3" src="https://img.shields.io/badge/-CSS3-green?style=flat-square&logo=css3&logoColor=white"></a>
